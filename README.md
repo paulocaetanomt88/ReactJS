@@ -1,2 +1,0 @@
-# RactJS
-Created with CodeSandbox
